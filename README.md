@@ -1,2 +1,2 @@
-# Wein-bridge-oscillator-
-Modelling an Oo-Amp based Wein Bridge oscillator in LTspice 
+# RC Phase shift oscillator-
+Modelling an Op-Amp based rc phase shift oscillator in LTspice 
